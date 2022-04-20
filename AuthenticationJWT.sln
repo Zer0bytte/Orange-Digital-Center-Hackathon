@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationJWT", "AuthenticationJWT\AuthenticationJWT.csproj", "{5DE7AF16-2F97-45F9-8F95-27710A54C7C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domains", "Domains\Domains.csproj", "{BB761EF9-531E-4D0A-84ED-5522B10C8401}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{81208755-D334-4570-8CBA-E29E06837B1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orange Digital Center", "Orange Digital Center\Orange Digital Center.csproj", "{97BB883A-71A3-4234-A4CB-F870659CA272}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODC Students", "ODC Students\ODC Students.csproj", "{BA640488-256A-4BEA-921B-9E002669A097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student ODC", "Student ODC\Student ODC.csproj", "{167D6B4C-85CD-4E1C-A743-0BF6178BC64E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE7AF16-2F97-45F9-8F95-27710A54C7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE7AF16-2F97-45F9-8F95-27710A54C7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE7AF16-2F97-45F9-8F95-27710A54C7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE7AF16-2F97-45F9-8F95-27710A54C7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB761EF9-531E-4D0A-84ED-5522B10C8401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB761EF9-531E-4D0A-84ED-5522B10C8401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB761EF9-531E-4D0A-84ED-5522B10C8401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB761EF9-531E-4D0A-84ED-5522B10C8401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81208755-D334-4570-8CBA-E29E06837B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81208755-D334-4570-8CBA-E29E06837B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81208755-D334-4570-8CBA-E29E06837B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81208755-D334-4570-8CBA-E29E06837B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BB883A-71A3-4234-A4CB-F870659CA272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BB883A-71A3-4234-A4CB-F870659CA272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BB883A-71A3-4234-A4CB-F870659CA272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BB883A-71A3-4234-A4CB-F870659CA272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA640488-256A-4BEA-921B-9E002669A097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA640488-256A-4BEA-921B-9E002669A097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA640488-256A-4BEA-921B-9E002669A097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA640488-256A-4BEA-921B-9E002669A097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167D6B4C-85CD-4E1C-A743-0BF6178BC64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167D6B4C-85CD-4E1C-A743-0BF6178BC64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167D6B4C-85CD-4E1C-A743-0BF6178BC64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167D6B4C-85CD-4E1C-A743-0BF6178BC64E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5219BFC-89AF-4BB6-9839-D3DFCB25B708}
+	EndGlobalSection
+EndGlobal
